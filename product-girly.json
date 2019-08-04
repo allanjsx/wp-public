@@ -1,0 +1,53 @@
+{
+    "defaultProductIdMatchBoost": 50,
+    "defaultProductWeight": 0,
+    "defaultKeywordWeight": 0,
+    "maxNumberOfProductsToShow": 3,
+    "products": [
+        {
+            "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+            "productLink": "https://getmebling.co/collections/girly/products/gudetama-lazy-egg-pvc-keychain?variant=14464755597367",
+            "productName": "Gudetama Lazy Egg keychain",
+            "productId": "lazy-egg-keychain",
+            "matchAnyKeyword": [
+                {
+                    "keyword": "cute"
+                }
+            ]
+        },
+        {
+            "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+            "productLink": "https://getmebling.co/collections/girly/products/gudetama-lazy-egg-pvc-keychain?variant=14464755597367",
+            "productName": "Watercolor example",
+            "productId": "water-color",
+            "weight": 5,
+            "matchAnyKeyword": [
+                {
+                    "keyword": "watercolor"
+                },
+                {
+                    "keyword": "water color"
+                },
+                {
+                    "keyword": "*"
+                }
+            ]
+        },
+        {
+            "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+            "productLink": "https://getmebling.co/collections/girly/products/gudetama-lazy-egg-pvc-keychain?variant=14464755597367",
+            "productName": "We bear bears example",
+            "productId": "we-bear-bears",
+            "matchAnyKeyword": [
+                {
+                    "keyword": "we bear bears",
+                    "weight": 10
+                },
+                {
+                    "keyword": "panda",
+                    "weight": 10
+                }
+            ]
+        }
+    ]
+}
