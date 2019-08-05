@@ -1,53 +1,4689 @@
 {
-    "defaultProductIdMatchBoost": 50,
-    "defaultProductWeight": 0,
-    "defaultKeywordWeight": 0,
-    "maxNumberOfProductsToShow": 3,
-    "products": [
+  "defaultProductIdMatchBoost": 50,
+  "defaultProductWeight": 0,
+  "defaultKeywordWeight": 0,
+  "maxNumberOfProductsToShow": 3,
+  "products": [
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-acrylic-circle-earrings",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "1",
+      "matchAnyKeyword": [
         {
-            "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
-            "productLink": "https://getmebling.co/collections/girly/products/gudetama-lazy-egg-pvc-keychain?variant=14464755597367",
-            "productName": "Gudetama Lazy Egg keychain",
-            "productId": "lazy-egg-keychain",
-            "matchAnyKeyword": [
-                {
-                    "keyword": "cute"
-                }
-            ]
+          "keyword": "earrings",
+          "weight": 5
         },
         {
-            "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
-            "productLink": "https://getmebling.co/collections/girly/products/gudetama-lazy-egg-pvc-keychain?variant=14464755597367",
-            "productName": "Watercolor example",
-            "productId": "water-color",
-            "weight": 5,
-            "matchAnyKeyword": [
-                {
-                    "keyword": "watercolor"
-                },
-                {
-                    "keyword": "water color"
-                },
-                {
-                    "keyword": "*"
-                }
-            ]
+          "keyword": "jewelry",
+          "weight": 5
         },
         {
-            "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
-            "productLink": "https://getmebling.co/collections/girly/products/gudetama-lazy-egg-pvc-keychain?variant=14464755597367",
-            "productName": "We bear bears example",
-            "productId": "we-bear-bears",
-            "matchAnyKeyword": [
-                {
-                    "keyword": "we bear bears",
-                    "weight": 10
-                },
-                {
-                    "keyword": "panda",
-                    "weight": 10
-                }
-            ]
+          "keyword": "summer"
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "irregular"
+        },
+        {
+          "keyword": "hollow"
+        },
+        {
+          "keyword": "circle"
+        },
+        {
+          "keyword": "square"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "metal"
+        },
+        {
+          "keyword": "party"
+        },
+        {
+          "keyword": "beach"
         }
-    ]
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-acrylic-flower-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "2",
+      "matchAnyKeyword": [
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "irregular"
+        },
+        {
+          "keyword": "hollow"
+        },
+        {
+          "keyword": "circle"
+        },
+        {
+          "keyword": "square"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "metal"
+        },
+        {
+          "keyword": "party"
+        },
+        {
+          "keyword": "beach"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-acrylic-round-earrings",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "3",
+      "matchAnyKeyword": [
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "irregular"
+        },
+        {
+          "keyword": "hollow"
+        },
+        {
+          "keyword": "circle"
+        },
+        {
+          "keyword": "square"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "metal"
+        },
+        {
+          "keyword": "party"
+        },
+        {
+          "keyword": "beach"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-geometric-gold-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "4",
+      "matchAnyKeyword": [
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "irregular"
+        },
+        {
+          "keyword": "hollow"
+        },
+        {
+          "keyword": "circle"
+        },
+        {
+          "keyword": "square"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "metal"
+        },
+        {
+          "keyword": "party"
+        },
+        {
+          "keyword": "beach"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-acrylic-square-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "5",
+      "matchAnyKeyword": [
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "irregular"
+        },
+        {
+          "keyword": "hollow"
+        },
+        {
+          "keyword": "circle"
+        },
+        {
+          "keyword": "square"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "metal"
+        },
+        {
+          "keyword": "party"
+        },
+        {
+          "keyword": "beach"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-acrylic-square-earring-1",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "6",
+      "matchAnyKeyword": [
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "irregular"
+        },
+        {
+          "keyword": "hollow"
+        },
+        {
+          "keyword": "circle"
+        },
+        {
+          "keyword": "square"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "metal"
+        },
+        {
+          "keyword": "party"
+        },
+        {
+          "keyword": "beach"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-geometric-acrylic-circle-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "7",
+      "matchAnyKeyword": [
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "irregular"
+        },
+        {
+          "keyword": "hollow"
+        },
+        {
+          "keyword": "circle"
+        },
+        {
+          "keyword": "square"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "metal"
+        },
+        {
+          "keyword": "party"
+        },
+        {
+          "keyword": "beach"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-geometric-gold-earring-1",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "8",
+      "matchAnyKeyword": [
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "irregular"
+        },
+        {
+          "keyword": "hollow"
+        },
+        {
+          "keyword": "circle"
+        },
+        {
+          "keyword": "square"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "metal"
+        },
+        {
+          "keyword": "party"
+        },
+        {
+          "keyword": "beach"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-geometric-circle-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "9",
+      "matchAnyKeyword": [
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "irregular"
+        },
+        {
+          "keyword": "hollow"
+        },
+        {
+          "keyword": "circle"
+        },
+        {
+          "keyword": "square"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "metal"
+        },
+        {
+          "keyword": "party"
+        },
+        {
+          "keyword": "beach"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/pink-acrylic-circle-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "10",
+      "matchAnyKeyword": [
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "ladies"
+        },
+        {
+          "keyword": "temperament"
+        },
+        {
+          "keyword": "geometry"
+        },
+        {
+          "keyword": "love"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/pearl-pink-round-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "11",
+      "matchAnyKeyword": [
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "ladies"
+        },
+        {
+          "keyword": "temperament"
+        },
+        {
+          "keyword": "geometry"
+        },
+        {
+          "keyword": "love"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/pink-shell-star-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "12",
+      "matchAnyKeyword": [
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "ladies"
+        },
+        {
+          "keyword": "temperament"
+        },
+        {
+          "keyword": "geometry"
+        },
+        {
+          "keyword": "love"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/pink-long-tassel-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "13",
+      "matchAnyKeyword": [
+        {
+          "keyword": "bowknot",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "bowknot"
+        },
+        {
+          "keyword": "long"
+        },
+        {
+          "keyword": "tassel"
+        },
+        {
+          "keyword": "earrings"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/pink-bowknot-pearl-long-tassel-earrings",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "14",
+      "matchAnyKeyword": [
+        {
+          "keyword": "bowknot",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "bowknot"
+        },
+        {
+          "keyword": "pearl"
+        },
+        {
+          "keyword": "long"
+        },
+        {
+          "keyword": "tassel"
+        },
+        {
+          "keyword": "earrings"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/pink-heart-pearl-long-tassel-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "15",
+      "matchAnyKeyword": [
+        {
+          "keyword": "heart",
+          "weight": 10
+        },
+        {
+          "keyword": "love",
+          "weight": 10
+        },
+        {
+          "keyword": "ribbon",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "heart"
+        },
+        {
+          "keyword": "pearl"
+        },
+        {
+          "keyword": "long"
+        },
+        {
+          "keyword": "tassel"
+        },
+        {
+          "keyword": "ribbon"
+        },
+        {
+          "keyword": "earring"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/pink-heart-pearl-long-tassel-earring-1",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "16",
+      "matchAnyKeyword": [
+        {
+          "keyword": "heart",
+          "weight": 10
+        },
+        {
+          "keyword": "love",
+          "weight": 10
+        },
+        {
+          "keyword": "ribbon",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "heart"
+        },
+        {
+          "keyword": "pearl"
+        },
+        {
+          "keyword": "long"
+        },
+        {
+          "keyword": "tassel"
+        },
+        {
+          "keyword": "ribbon"
+        },
+        {
+          "keyword": "earring"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/pink-flower-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "17",
+      "matchAnyKeyword": [
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "flower"
+        },
+        {
+          "keyword": "earring"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/pink-silk-ribbon-gold-star-long-tassel-earrings",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "18",
+      "matchAnyKeyword": [
+        {
+          "keyword": "ribbon",
+          "weight": 10
+        },
+        {
+          "keyword": "star",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "silk"
+        },
+        {
+          "keyword": "ribbon"
+        },
+        {
+          "keyword": "gold"
+        },
+        {
+          "keyword": "star"
+        },
+        {
+          "keyword": "long"
+        },
+        {
+          "keyword": "tassel"
+        },
+        {
+          "keyword": "earrings"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/pink-pearl-heart-long-tassel-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "19",
+      "matchAnyKeyword": [
+        {
+          "keyword": "pearl",
+          "weight": 10
+        },
+        {
+          "keyword": "heart",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "pearl"
+        },
+        {
+          "keyword": "heart"
+        },
+        {
+          "keyword": "long"
+        },
+        {
+          "keyword": "tassel"
+        },
+        {
+          "keyword": "earring"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/summer-yellow-bees-pearl-long-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "20",
+      "matchAnyKeyword": [
+        {
+          "keyword": "bee",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "yellow"
+        },
+        {
+          "keyword": "bee"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "girl"
+        },
+        {
+          "keyword": "orange"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "long"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "statement"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/yellow-flower-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "21",
+      "matchAnyKeyword": [
+        {
+          "keyword": "flower",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "girl"
+        },
+        {
+          "keyword": "yellow"
+        },
+        {
+          "keyword": "flower"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "long"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "statement"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/cute girly-fried-egg-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "22",
+      "matchAnyKeyword": [
+        {
+          "keyword": "egg",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "cute"
+        },
+        {
+          "keyword": "girly"
+        },
+        {
+          "keyword": "fried"
+        },
+        {
+          "keyword": "egg"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "statement"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/cute girly-fried-egg-ear-stud",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "23",
+      "matchAnyKeyword": [
+        {
+          "keyword": "egg",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "cute"
+        },
+        {
+          "keyword": "girly"
+        },
+        {
+          "keyword": "fried"
+        },
+        {
+          "keyword": "egg"
+        },
+        {
+          "keyword": "ear"
+        },
+        {
+          "keyword": "stud"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "statement"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/yellow-triangle-symbol-earrings",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "24",
+      "matchAnyKeyword": [
+        {
+          "keyword": "question",
+          "weight": 10
+        },
+        {
+          "keyword": "mark",
+          "weight": 10
+        },
+        {
+          "keyword": "exclamation",
+          "weight": 10
+        },
+        {
+          "keyword": "mark",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "triangle"
+        },
+        {
+          "keyword": "symbol"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "statement"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/summer-yellow-flower-pearl-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "25",
+      "matchAnyKeyword": [
+        {
+          "keyword": "flower",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "girl"
+        },
+        {
+          "keyword": "yellow"
+        },
+        {
+          "keyword": "flower"
+        },
+        {
+          "keyword": "pearl"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "statement"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/summer-yellow-gold-round-ear-stud-earrings",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "26",
+      "matchAnyKeyword": [
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "yellow"
+        },
+        {
+          "keyword": "gold"
+        },
+        {
+          "keyword": "round"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "ear"
+        },
+        {
+          "keyword": "stud"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/yellow-star-earrings",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "27",
+      "matchAnyKeyword": [
+        {
+          "keyword": "pentagram",
+          "weight": 10
+        },
+        {
+          "keyword": "star",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "cute"
+        },
+        {
+          "keyword": "girly"
+        },
+        {
+          "keyword": "yellow"
+        },
+        {
+          "keyword": "black"
+        },
+        {
+          "keyword": "star"
+        },
+        {
+          "keyword": "pentagram"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "statement"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/summer-yellow-and-white-sunflower-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "28",
+      "matchAnyKeyword": [
+        {
+          "keyword": "flower",
+          "weight": 10
+        },
+        {
+          "keyword": "sunflower",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "girl"
+        },
+        {
+          "keyword": "yellow"
+        },
+        {
+          "keyword": "sunflower"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "statement"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/orange-crimson-round-geometric-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "29",
+      "matchAnyKeyword": [
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "orange"
+        },
+        {
+          "keyword": "crimson"
+        },
+        {
+          "keyword": "round"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "earring"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/grape-fruit-orange-round-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "30",
+      "matchAnyKeyword": [
+        {
+          "keyword": "grape",
+          "weight": 10
+        },
+        {
+          "keyword": "fruit",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summeer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "grape"
+        },
+        {
+          "keyword": "fruit"
+        },
+        {
+          "keyword": "orange"
+        },
+        {
+          "keyword": "round"
+        },
+        {
+          "keyword": "earring"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-Universe Galaxy-star-moon-asymmetric-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "31",
+      "matchAnyKeyword": [
+        {
+          "keyword": "planet",
+          "weight": 10
+        },
+        {
+          "keyword": "moon",
+          "weight": 10
+        },
+        {
+          "keyword": "universe",
+          "weight": 10
+        },
+        {
+          "keyword": "galaxy",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "space"
+        },
+        {
+          "keyword": "universe"
+        },
+        {
+          "keyword": "galaxy"
+        },
+        {
+          "keyword": "star"
+        },
+        {
+          "keyword": "moon"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "planet"
+        },
+        {
+          "keyword": "asymmetric"
+        },
+        {
+          "keyword": "jewelry"
+        },
+        {
+          "keyword": "ladies"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "christmas"
+        },
+        {
+          "keyword": "gifts"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-Universe Galaxy-star-planet-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "32",
+      "matchAnyKeyword": [
+        {
+          "keyword": "planet",
+          "weight": 10
+        },
+        {
+          "keyword": "moon",
+          "weight": 10
+        },
+        {
+          "keyword": "universe",
+          "weight": 10
+        },
+        {
+          "keyword": "galaxy",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "space"
+        },
+        {
+          "keyword": "universe"
+        },
+        {
+          "keyword": "galaxy"
+        },
+        {
+          "keyword": "star"
+        },
+        {
+          "keyword": "moon"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "planet"
+        },
+        {
+          "keyword": "asymmetric"
+        },
+        {
+          "keyword": "jewelry"
+        },
+        {
+          "keyword": "ladies"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "christmas"
+        },
+        {
+          "keyword": "gifts"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-Universe Galaxy-planet-star-moon-asymmetric-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "33",
+      "matchAnyKeyword": [
+        {
+          "keyword": "planet",
+          "weight": 10
+        },
+        {
+          "keyword": "moon",
+          "weight": 10
+        },
+        {
+          "keyword": "universe",
+          "weight": 10
+        },
+        {
+          "keyword": "galaxy",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "space"
+        },
+        {
+          "keyword": "universe"
+        },
+        {
+          "keyword": "galaxy"
+        },
+        {
+          "keyword": "star"
+        },
+        {
+          "keyword": "moon"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "planet"
+        },
+        {
+          "keyword": "asymmetric"
+        },
+        {
+          "keyword": "jewelry"
+        },
+        {
+          "keyword": "ladies"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "christmas"
+        },
+        {
+          "keyword": "gifts"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-Universe Galaxy-planet-gold-star-asymmetric-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "34",
+      "matchAnyKeyword": [
+        {
+          "keyword": "planet",
+          "weight": 10
+        },
+        {
+          "keyword": "moon",
+          "weight": 10
+        },
+        {
+          "keyword": "universe",
+          "weight": 10
+        },
+        {
+          "keyword": "galaxy",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "space"
+        },
+        {
+          "keyword": "universe"
+        },
+        {
+          "keyword": "galaxy"
+        },
+        {
+          "keyword": "star"
+        },
+        {
+          "keyword": "moon"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "planet"
+        },
+        {
+          "keyword": "asymmetric"
+        },
+        {
+          "keyword": "jewelry"
+        },
+        {
+          "keyword": "ladies"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "christmas"
+        },
+        {
+          "keyword": "gifts"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-star-moon-asymmetric-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "35",
+      "matchAnyKeyword": [
+        {
+          "keyword": "planet",
+          "weight": 10
+        },
+        {
+          "keyword": "moon",
+          "weight": 10
+        },
+        {
+          "keyword": "universe",
+          "weight": 10
+        },
+        {
+          "keyword": "galaxy",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "space"
+        },
+        {
+          "keyword": "universe"
+        },
+        {
+          "keyword": "galaxy"
+        },
+        {
+          "keyword": "star"
+        },
+        {
+          "keyword": "moon"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "planet"
+        },
+        {
+          "keyword": "asymmetric"
+        },
+        {
+          "keyword": "jewelry"
+        },
+        {
+          "keyword": "ladies"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "christmas"
+        },
+        {
+          "keyword": "gifts"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-Universe Galaxy-planet-star-asymmetric-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "36",
+      "matchAnyKeyword": [
+        {
+          "keyword": "planet",
+          "weight": 10
+        },
+        {
+          "keyword": "moon",
+          "weight": 10
+        },
+        {
+          "keyword": "universe",
+          "weight": 10
+        },
+        {
+          "keyword": "galaxy",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "space"
+        },
+        {
+          "keyword": "universe"
+        },
+        {
+          "keyword": "galaxy"
+        },
+        {
+          "keyword": "star"
+        },
+        {
+          "keyword": "moon"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "planet"
+        },
+        {
+          "keyword": "asymmetric"
+        },
+        {
+          "keyword": "jewelry"
+        },
+        {
+          "keyword": "ladies"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "christmas"
+        },
+        {
+          "keyword": "gifts"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/light-blue-moon-long-gold-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "37",
+      "matchAnyKeyword": [
+        {
+          "keyword": "planet",
+          "weight": 10
+        },
+        {
+          "keyword": "moon",
+          "weight": 10
+        },
+        {
+          "keyword": "universe",
+          "weight": 10
+        },
+        {
+          "keyword": "galaxy",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "space"
+        },
+        {
+          "keyword": "universe"
+        },
+        {
+          "keyword": "galaxy"
+        },
+        {
+          "keyword": "star"
+        },
+        {
+          "keyword": "moon"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "planet"
+        },
+        {
+          "keyword": "asymmetric"
+        },
+        {
+          "keyword": "jewelry"
+        },
+        {
+          "keyword": "ladies"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "christmas"
+        },
+        {
+          "keyword": "gifts"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/blue-pink-Universe Galaxy-planet-star-circle-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "38",
+      "matchAnyKeyword": [
+        {
+          "keyword": "planet",
+          "weight": 10
+        },
+        {
+          "keyword": "moon",
+          "weight": 10
+        },
+        {
+          "keyword": "universe",
+          "weight": 10
+        },
+        {
+          "keyword": "galaxy",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "space"
+        },
+        {
+          "keyword": "universe"
+        },
+        {
+          "keyword": "galaxy"
+        },
+        {
+          "keyword": "star"
+        },
+        {
+          "keyword": "moon"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "planet"
+        },
+        {
+          "keyword": "asymmetric"
+        },
+        {
+          "keyword": "jewelry"
+        },
+        {
+          "keyword": "ladies"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "christmas"
+        },
+        {
+          "keyword": "gifts"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/Universe Galaxy-rocket-astronaut-asymmetric-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "39",
+      "matchAnyKeyword": [
+        {
+          "keyword": "rocket",
+          "weight": 10
+        },
+        {
+          "keyword": "astronaut",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "universe"
+        },
+        {
+          "keyword": "galaxy"
+        },
+        {
+          "keyword": "rocket"
+        },
+        {
+          "keyword": "astronaut"
+        },
+        {
+          "keyword": "asymmetric"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "pendant"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/unicorn-butterfly-star-asymmetric-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "40",
+      "matchAnyKeyword": [
+        {
+          "keyword": "unicorn",
+          "weight": 10
+        },
+        {
+          "keyword": "butterfly",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "unicorn"
+        },
+        {
+          "keyword": "butterfly"
+        },
+        {
+          "keyword": "star"
+        },
+        {
+          "keyword": "asymmetric"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/tiffany-blue-flower-earrings",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "41",
+      "matchAnyKeyword": [
+        {
+          "keyword": "flower",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "tiffany"
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "flower"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/geometric-green-and-blue-round-acrylic-silver-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "42",
+      "matchAnyKeyword": [
+        {
+          "keyword": "geometric",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "green"
+        },
+        {
+          "keyword": "and"
+        },
+        {
+          "keyword": "blue"
+        },
+        {
+          "keyword": "round"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "silver"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/soju-wine-bottle-alcohol-acrylic-earrings",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "43",
+      "matchAnyKeyword": [
+        {
+          "keyword": "soju",
+          "weight": 10
+        },
+        {
+          "keyword": "wine",
+          "weight": 10
+        },
+        {
+          "keyword": "bottle",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "soju"
+        },
+        {
+          "keyword": "wine"
+        },
+        {
+          "keyword": "bottle"
+        },
+        {
+          "keyword": "alcohol"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/purple-green-triangle-round-geometric-acrylic-earrings",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "44",
+      "matchAnyKeyword": [
+        {
+          "keyword": "triangle",
+          "weight": 10
+        },
+        {
+          "keyword": "round",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "purple"
+        },
+        {
+          "keyword": "green"
+        },
+        {
+          "keyword": "triangle"
+        },
+        {
+          "keyword": "round"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "acrylic"
+        },
+        {
+          "keyword": "earrings"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/cactus-green-pink-geometric-flower-earrings",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "45",
+      "matchAnyKeyword": [
+        {
+          "keyword": "cactus",
+          "weight": 10
+        },
+        {
+          "keyword": "flower",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "cactus"
+        },
+        {
+          "keyword": "green"
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "flower"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/face-profile-gold-geometric-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "46",
+      "matchAnyKeyword": [
+        {
+          "keyword": "face",
+          "weight": 10
+        },
+        {
+          "keyword": "profile",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "series"
+        },
+        {
+          "keyword": "green"
+        },
+        {
+          "keyword": "face"
+        },
+        {
+          "keyword": "profile"
+        },
+        {
+          "keyword": "gold"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/colored-pink-forest-sticky-note-30-pages",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "47",
+      "matchAnyKeyword": [
+        {
+          "keyword": "forest",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "colored"
+        },
+        {
+          "keyword": "clouds"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "planner"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "note"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticker"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "supplies"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/colored-sticky-note-30-pages",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "48",
+      "matchAnyKeyword": [
+        {
+          "keyword": "snow",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "colored"
+        },
+        {
+          "keyword": "clouds"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "planner"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "note"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticker"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "supplies"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/colored-snow-mountain-sticky-note-30-pages",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "49",
+      "matchAnyKeyword": [
+        {
+          "keyword": "snow",
+          "weight": 10
+        },
+        {
+          "keyword": "mountain",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "colored"
+        },
+        {
+          "keyword": "clouds"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "planner"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "note"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticker"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "supplies"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/colored-pink-clouds-sticky-note-30-pages",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "50",
+      "matchAnyKeyword": [
+        {
+          "keyword": "cloud",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "colored"
+        },
+        {
+          "keyword": "clouds"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "planner"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "note"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticker"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "supplies"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/colored-clouds-sticky-note-30-pages",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "51",
+      "matchAnyKeyword": [
+        {
+          "keyword": "cloud",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "colored"
+        },
+        {
+          "keyword": "clouds"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "planner"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "note"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticker"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "supplies"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/flamingo-sticky-note-30-pages",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "52",
+      "matchAnyKeyword": [
+        {
+          "keyword": "flamingo",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "red"
+        },
+        {
+          "keyword": "flamingo"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "planner"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "note"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticker"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "supplies"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/marble-sticky-note-30-pages",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "53",
+      "matchAnyKeyword": [
+        {
+          "keyword": "marble",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "white"
+        },
+        {
+          "keyword": "marble"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "planner"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "note"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticker"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "supplies"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/cherry-blossom-sticky-note-30-pages",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "54",
+      "matchAnyKeyword": [
+        {
+          "keyword": "cherry",
+          "weight": 10
+        },
+        {
+          "keyword": "blossom",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "cherry"
+        },
+        {
+          "keyword": "blossom"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "planner"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "note"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticker"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "supplies"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/green-leaves-plants-sticky-note-30-pages",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "55",
+      "matchAnyKeyword": [
+        {
+          "keyword": "leaves",
+          "weight": 10
+        },
+        {
+          "keyword": "plant",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "green"
+        },
+        {
+          "keyword": "leaves"
+        },
+        {
+          "keyword": "plant"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "planner"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "note"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticker"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "supplies"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/accessory/products/cute girly-gudetama-sticker",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "56",
+      "matchAnyKeyword": [
+        {
+          "keyword": "gudetama",
+          "weight": 10
+        },
+        {
+          "keyword": "sticker",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "cartoon"
+        },
+        {
+          "keyword": "gudetama"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticker"
+        },
+        {
+          "keyword": "diy"
+        },
+        {
+          "keyword": "decoration"
+        },
+        {
+          "keyword": "sticker"
+        },
+        {
+          "keyword": "for"
+        },
+        {
+          "keyword": "album"
+        },
+        {
+          "keyword": "scrapbooking"
+        },
+        {
+          "keyword": "diary"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/accessory/products/cute girly-gudetama-sticker-1",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "57",
+      "matchAnyKeyword": [
+        {
+          "keyword": "gudetama",
+          "weight": 10
+        },
+        {
+          "keyword": "sticker",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "cartoon"
+        },
+        {
+          "keyword": "gudetama"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticker"
+        },
+        {
+          "keyword": "diy"
+        },
+        {
+          "keyword": "decoration"
+        },
+        {
+          "keyword": "sticker"
+        },
+        {
+          "keyword": "for"
+        },
+        {
+          "keyword": "album"
+        },
+        {
+          "keyword": "scrapbooking"
+        },
+        {
+          "keyword": "diary"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/accessory/products/blue-carousel-sticky-notes-30-pcs",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "58",
+      "matchAnyKeyword": [
+        {
+          "keyword": "carousel",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "carousel"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "notes"
+        },
+        {
+          "keyword": "notepad"
+        },
+        {
+          "keyword": "post"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "papeleria"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/accessory/products/green-tea-mocha-cake-sticky-notes-30-pcs",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "59",
+      "matchAnyKeyword": [
+        {
+          "keyword": "green",
+          "weight": 10
+        },
+        {
+          "keyword": "tea",
+          "weight": 10
+        },
+        {
+          "keyword": "matcha",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "green"
+        },
+        {
+          "keyword": "tea"
+        },
+        {
+          "keyword": "matcha"
+        },
+        {
+          "keyword": "cake"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "notes"
+        },
+        {
+          "keyword": "notepad"
+        },
+        {
+          "keyword": "post"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "papeleria"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/accessory/products/watermelon-sticky-notes-30-pcs",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "60",
+      "matchAnyKeyword": [
+        {
+          "keyword": "watermelon",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "watermelon"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "notes"
+        },
+        {
+          "keyword": "notepad"
+        },
+        {
+          "keyword": "post"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "papeleria"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/accessory/products/flamingo-sticky-notes-30-pcs",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "61",
+      "matchAnyKeyword": [
+        {
+          "keyword": "flamingo",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "flamingo"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "notes"
+        },
+        {
+          "keyword": "notepad"
+        },
+        {
+          "keyword": "post"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "papeleria"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/accessory/products/cup-cat-sticky-notes-30-pcs",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "62",
+      "matchAnyKeyword": [
+        {
+          "keyword": "cat",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "cup"
+        },
+        {
+          "keyword": "cat"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "notes"
+        },
+        {
+          "keyword": "notepad"
+        },
+        {
+          "keyword": "post"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "papeleria"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/accessory/products/strawberry-cake-sticky-notes-30-pcs",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "63",
+      "matchAnyKeyword": [
+        {
+          "keyword": "strawberry",
+          "weight": 10
+        },
+        {
+          "keyword": "cake",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "strawberry"
+        },
+        {
+          "keyword": "cake"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "notes"
+        },
+        {
+          "keyword": "notepad"
+        },
+        {
+          "keyword": "post"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "papeleria"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/accessory/products/strawberry-milk-tea-drink-30-pcs",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "64",
+      "matchAnyKeyword": [
+        {
+          "keyword": "strawberry",
+          "weight": 10
+        },
+        {
+          "keyword": "milk",
+          "weight": 10
+        },
+        {
+          "keyword": "tea",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "strawberry"
+        },
+        {
+          "keyword": "milk"
+        },
+        {
+          "keyword": "tea"
+        },
+        {
+          "keyword": "drink"
+        },
+        {
+          "keyword": "beverage"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "notes"
+        },
+        {
+          "keyword": "notepad"
+        },
+        {
+          "keyword": "post"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "papeleria"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/accessory/products/strawberry-ice-cream-sticky-notes-30-pcs",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "65",
+      "matchAnyKeyword": [
+        {
+          "keyword": "strawberry",
+          "weight": 10
+        },
+        {
+          "keyword": "ice",
+          "weight": 10
+        },
+        {
+          "keyword": "cream",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "strawberry"
+        },
+        {
+          "keyword": "ice"
+        },
+        {
+          "keyword": "cream"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "notes"
+        },
+        {
+          "keyword": "notepad"
+        },
+        {
+          "keyword": "post"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "papeleria"
+        },
+        {
+          "keyword": "material"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/accessory/products/orange-jelly-bottle-sticky-notes-30-pcs",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "66",
+      "matchAnyKeyword": [
+        {
+          "keyword": "jelly",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "orange"
+        },
+        {
+          "keyword": "jelly"
+        },
+        {
+          "keyword": "bottle"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "notes"
+        },
+        {
+          "keyword": "notepad"
+        },
+        {
+          "keyword": "post"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "papeleria"
+        },
+        {
+          "keyword": "material"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/accessory/products/watercolor-flower-sticky-notes-30-pcs",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "67",
+      "matchAnyKeyword": [
+        {
+          "keyword": "watercolor",
+          "weight": 10
+        },
+        {
+          "keyword": "flower",
+          "weight": 10
+        },
+        {
+          "keyword": "bunny",
+          "weight": 10
+        },
+        {
+          "keyword": "sticky",
+          "weight": 5
+        },
+        {
+          "keyword": "note",
+          "weight": 5
+        },
+        {
+          "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "watercolor"
+        },
+        {
+          "keyword": "flower"
+        },
+        {
+          "keyword": "bunny"
+        },
+        {
+          "keyword": "rabbit"
+        },
+        {
+          "keyword": "memo"
+        },
+        {
+          "keyword": "pad"
+        },
+        {
+          "keyword": "paper"
+        },
+        {
+          "keyword": "sticky"
+        },
+        {
+          "keyword": "notes"
+        },
+        {
+          "keyword": "notepad"
+        },
+        {
+          "keyword": "post"
+        },
+        {
+          "keyword": "kawaii"
+        },
+        {
+          "keyword": "stationery"
+        },
+        {
+          "keyword": "papeleria"
+        },
+        {
+          "keyword": "material"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/handmade-beaded-leaf-earring?variant=14503766261815",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "68",
+      "matchAnyKeyword": [
+        {
+          "keyword": "leaf",
+          "weight": 10
+        },
+        {
+          "keyword": "plant",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "handmade"
+        },
+        {
+          "keyword": "beaded"
+        },
+        {
+          "keyword": "jewelry"
+        },
+        {
+          "keyword": "leaf"
+        },
+        {
+          "keyword": "pendant"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "for"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "new"
+        },
+        {
+          "keyword": "design"
+        },
+        {
+          "keyword": "wedding"
+        },
+        {
+          "keyword": "jewelry"
+        },
+        {
+          "keyword": "korean"
+        },
+        {
+          "keyword": "drop"
+        },
+        {
+          "keyword": "dangle"
+        },
+        {
+          "keyword": "earring"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/bohemian-beaded-flamingo-drop-earrings",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "69",
+      "matchAnyKeyword": [
+        {
+          "keyword": "flamingo",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "best"
+        },
+        {
+          "keyword": "lady"
+        },
+        {
+          "keyword": "bohemian"
+        },
+        {
+          "keyword": "beaded"
+        },
+        {
+          "keyword": "flamingo"
+        },
+        {
+          "keyword": "drop"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "for"
+        },
+        {
+          "keyword": "wedding"
+        },
+        {
+          "keyword": "handmade"
+        },
+        {
+          "keyword": "jewelry"
+        },
+        {
+          "keyword": "unique"
+        },
+        {
+          "keyword": "design"
+        },
+        {
+          "keyword": "fashion"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "statement"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "gift"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/for-watermelon-fruit-stud-earring-1",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "70",
+      "matchAnyKeyword": [
+        {
+          "keyword": "watermelon",
+          "weight": 10
+        },
+        {
+          "keyword": "fruit",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "trendy"
+        },
+        {
+          "keyword": "boho"
+        },
+        {
+          "keyword": "fruit"
+        },
+        {
+          "keyword": "round"
+        },
+        {
+          "keyword": "drop"
+        },
+        {
+          "keyword": "dangle"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "handmade"
+        },
+        {
+          "keyword": "watermelon"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "female"
+        },
+        {
+          "keyword": "wedding"
+        },
+        {
+          "keyword": "party"
+        },
+        {
+          "keyword": "gifts"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/for-watermelon-fruit-stud-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "71",
+      "matchAnyKeyword": [
+        {
+          "keyword": "strawberry",
+          "weight": 10
+        },
+        {
+          "keyword": "fruit",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "lovely"
+        },
+        {
+          "keyword": "cute"
+        },
+        {
+          "keyword": "girly"
+        },
+        {
+          "keyword": "fruit"
+        },
+        {
+          "keyword": "stud"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "for"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "brinco"
+        },
+        {
+          "keyword": "small"
+        },
+        {
+          "keyword": "rhinestone"
+        },
+        {
+          "keyword": "strawberry"
+        },
+        {
+          "keyword": "stud"
+        },
+        {
+          "keyword": "statement"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "girl"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/fruit-pineapple-stud-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "72",
+      "matchAnyKeyword": [
+        {
+          "keyword": "pineapple",
+          "weight": 10
+        },
+        {
+          "keyword": "fruit",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "lovely"
+        },
+        {
+          "keyword": "cute"
+        },
+        {
+          "keyword": "girly"
+        },
+        {
+          "keyword": "fruit"
+        },
+        {
+          "keyword": "stud"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "for"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "brinco"
+        },
+        {
+          "keyword": "small"
+        },
+        {
+          "keyword": "rhinestone"
+        },
+        {
+          "keyword": "pineapple"
+        },
+        {
+          "keyword": "stud"
+        },
+        {
+          "keyword": "statement"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "girl"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/for-strawberry-fruit-stud-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "73",
+      "matchAnyKeyword": [
+        {
+          "keyword": "strawberry",
+          "weight": 10
+        },
+        {
+          "keyword": "fruit",
+          "weight": 10
+        },
+        {
+          "keyword": "glitter",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "lovely"
+        },
+        {
+          "keyword": "cute"
+        },
+        {
+          "keyword": "girly"
+        },
+        {
+          "keyword": "fruit"
+        },
+        {
+          "keyword": "stud"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "for"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "brinco"
+        },
+        {
+          "keyword": "small"
+        },
+        {
+          "keyword": "rhinestone"
+        },
+        {
+          "keyword": "strawberry"
+        },
+        {
+          "keyword": "stud"
+        },
+        {
+          "keyword": "statement"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "girl"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/watermelon-fruit-stud-earring?variant=14504128610359",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "74",
+      "matchAnyKeyword": [
+        {
+          "keyword": "watermelon",
+          "weight": 10
+        },
+        {
+          "keyword": "fruit",
+          "weight": 10
+        },
+        {
+          "keyword": "glitter",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "summer"
+        },
+        {
+          "keyword": "trendy"
+        },
+        {
+          "keyword": "boho"
+        },
+        {
+          "keyword": "fruit"
+        },
+        {
+          "keyword": "round"
+        },
+        {
+          "keyword": "drop"
+        },
+        {
+          "keyword": "dangle"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "handmade"
+        },
+        {
+          "keyword": "watermelon"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "female"
+        },
+        {
+          "keyword": "wedding"
+        },
+        {
+          "keyword": "party"
+        },
+        {
+          "keyword": "gifts"
+        },
+        {
+          "keyword": "jewelry"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/pink-bowknot-water-drop-crystal-earrings",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "75",
+      "matchAnyKeyword": [
+        {
+          "keyword": "bowknot",
+          "weight": 10
+        },
+        {
+          "keyword": "pink",
+          "weight": 10
+        },
+        {
+          "keyword": "glitter",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "fashion"
+        },
+        {
+          "keyword": "cute"
+        },
+        {
+          "keyword": "girly"
+        },
+        {
+          "keyword": "water"
+        },
+        {
+          "keyword": "drop"
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "crystal"
+        },
+        {
+          "keyword": "bowknot"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "party"
+        },
+        {
+          "keyword": "weddings"
+        },
+        {
+          "keyword": "birthday"
+        },
+        {
+          "keyword": "gift"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly?page=1",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "76",
+      "matchAnyKeyword": [
+        {
+          "keyword": "bowknot",
+          "weight": 10
+        },
+        {
+          "keyword": "pink",
+          "weight": 10
+        },
+        {
+          "keyword": "glitter",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "fashion"
+        },
+        {
+          "keyword": "cute"
+        },
+        {
+          "keyword": "girly"
+        },
+        {
+          "keyword": "round"
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "crystal"
+        },
+        {
+          "keyword": "bowknot"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "party"
+        },
+        {
+          "keyword": "weddings"
+        },
+        {
+          "keyword": "birthday"
+        },
+        {
+          "keyword": "gift"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/accessory/products/small-unicorn-toys-25cm?variant=14509101809719",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "77",
+      "matchAnyKeyword": [
+        {
+          "keyword": "unicorn",
+          "weight": 10
+        },
+        {
+          "keyword": "toy",
+          "weight": 5
+        },
+        {
+          "keyword": "25cm"
+        },
+        {
+          "keyword": "small"
+        },
+        {
+          "keyword": "unicorn"
+        },
+        {
+          "keyword": "toys"
+        },
+        {
+          "keyword": "soft"
+        },
+        {
+          "keyword": "stuffed"
+        },
+        {
+          "keyword": "animal"
+        },
+        {
+          "keyword": "&"
+        },
+        {
+          "keyword": "plush"
+        },
+        {
+          "keyword": "toys"
+        },
+        {
+          "keyword": "plush"
+        },
+        {
+          "keyword": "unicorn"
+        },
+        {
+          "keyword": "horse"
+        },
+        {
+          "keyword": "doll"
+        },
+        {
+          "keyword": "kids"
+        },
+        {
+          "keyword": "doll"
+        },
+        {
+          "keyword": "for"
+        },
+        {
+          "keyword": "children"
+        },
+        {
+          "keyword": "gift"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/water-drop-pink-flower-crystal-earrings",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "78",
+      "matchAnyKeyword": [
+        {
+          "keyword": "glitter",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "fashion"
+        },
+        {
+          "keyword": "cute"
+        },
+        {
+          "keyword": "water"
+        },
+        {
+          "keyword": "drop"
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "crystal"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "flower"
+        },
+        {
+          "keyword": "heart"
+        },
+        {
+          "keyword": "zirconia"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "party"
+        },
+        {
+          "keyword": "weddings"
+        },
+        {
+          "keyword": "birthday"
+        },
+        {
+          "keyword": "gift"
+        }
+      ],
+      "weight": null
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/water-drop-pink-crystal-earring",
+      "productImage": "https://www.citizencider.com/wp-content/uploads/2019/01/placeholder.jpg",
+      "productName": "Display Name",
+      "productId": "79",
+      "matchAnyKeyword": [
+        {
+          "keyword": "glitter",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "fashion"
+        },
+        {
+          "keyword": "cute"
+        },
+        {
+          "keyword": "water"
+        },
+        {
+          "keyword": "drop"
+        },
+        {
+          "keyword": "pink"
+        },
+        {
+          "keyword": "crystal"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "zirconia"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "party"
+        },
+        {
+          "keyword": "weddings"
+        },
+        {
+          "keyword": "birthday"
+        },
+        {
+          "keyword": "gift"
+        }
+      ],
+      "weight": null
+    }
+  ]
 }
