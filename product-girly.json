@@ -19,6 +19,10 @@
           "weight": 5
         },
         {
+          "keyword": "blue",
+          "weight": 5
+        },
+        {
           "keyword": "summer"
         },
         {
@@ -68,6 +72,10 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "blue",
           "weight": 5
         },
         {
@@ -123,6 +131,10 @@
           "weight": 5
         },
         {
+          "keyword": "blue",
+          "weight": 5
+        },
+        {
           "keyword": "summer"
         },
         {
@@ -172,6 +184,10 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "blue",
           "weight": 5
         },
         {
@@ -227,6 +243,10 @@
           "weight": 5
         },
         {
+          "keyword": "blue",
+          "weight": 5
+        },
+        {
           "keyword": "summer"
         },
         {
@@ -276,6 +296,10 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "blue",
           "weight": 5
         },
         {
@@ -331,6 +355,10 @@
           "weight": 5
         },
         {
+          "keyword": "blue",
+          "weight": 5
+        },
+        {
           "keyword": "summer"
         },
         {
@@ -380,6 +408,10 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "blue",
           "weight": 5
         },
         {
@@ -435,6 +467,10 @@
           "weight": 5
         },
         {
+          "keyword": "blue",
+          "weight": 5
+        },
+        {
           "keyword": "summer"
         },
         {
@@ -483,6 +519,10 @@
           "weight": 5
         },
         {
+          "keyword": "pink",
+          "weight": 5
+        },
+        {
           "keyword": "pink"
         },
         {
@@ -513,6 +553,10 @@
           "weight": 5
         },
         {
+          "keyword": "pink",
+          "weight": 5
+        },
+        {
           "keyword": "pink"
         },
         {
@@ -540,6 +584,10 @@
       "matchAnyKeyword": [
         {
           "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "pink",
           "weight": 5
         },
         {
@@ -581,6 +629,10 @@
           "weight": 5
         },
         {
+          "keyword": "pink",
+          "weight": 5
+        },
+        {
           "keyword": "pink"
         },
         {
@@ -613,6 +665,10 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "pink",
           "weight": 5
         },
         {
@@ -659,6 +715,10 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "pink",
           "weight": 5
         },
         {
@@ -711,6 +771,10 @@
           "weight": 5
         },
         {
+          "keyword": "pink",
+          "weight": 5
+        },
+        {
           "keyword": "pink"
         },
         {
@@ -748,6 +812,10 @@
           "weight": 5
         },
         {
+          "keyword": "pink",
+          "weight": 5
+        },
+        {
           "keyword": "pink"
         },
         {
@@ -778,6 +846,10 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "pink",
           "weight": 5
         },
         {
@@ -829,6 +901,10 @@
           "weight": 5
         },
         {
+          "keyword": "pink",
+          "weight": 5
+        },
+        {
           "keyword": "pink"
         },
         {
@@ -864,6 +940,10 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "yellow",
           "weight": 5
         },
         {
@@ -923,6 +1003,10 @@
           "weight": 5
         },
         {
+          "keyword": "yellow",
+          "weight": 5
+        },
+        {
           "keyword": "summer"
         },
         {
@@ -973,6 +1057,10 @@
           "weight": 5
         },
         {
+          "keyword": "yellow",
+          "weight": 5
+        },
+        {
           "keyword": "summer"
         },
         {
@@ -1020,6 +1108,10 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "yellow",
           "weight": 5
         },
         {
@@ -1135,6 +1227,10 @@
           "weight": 5
         },
         {
+          "keyword": "yellow",
+          "weight": 5
+        },
+        {
           "keyword": "summer"
         },
         {
@@ -1181,6 +1277,14 @@
           "weight": 5
         },
         {
+          "keyword": "gold",
+          "weight": 5
+        },
+        {
+          "keyword": "yellow",
+          "weight": 5
+        },
+        {
           "keyword": "summer"
         },
         {
@@ -1223,6 +1327,10 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "yellow",
           "weight": 5
         },
         {
@@ -1283,6 +1391,10 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "yellow",
           "weight": 5
         },
         {
@@ -1427,6 +1539,14 @@
           "weight": 5
         },
         {
+          "keyword": "galaxy",
+          "weight": 5
+        },
+        {
+          "keyword": "blue",
+          "weight": 5
+        },
+        {
           "keyword": "blue"
         },
         {
@@ -1498,6 +1618,14 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "galaxy",
+          "weight": 5
+        },
+        {
+          "keyword": "blue",
           "weight": 5
         },
         {
@@ -1575,6 +1703,14 @@
           "weight": 5
         },
         {
+          "keyword": "galaxy",
+          "weight": 5
+        },
+        {
+          "keyword": "blue",
+          "weight": 5
+        },
+        {
           "keyword": "blue"
         },
         {
@@ -1646,6 +1782,14 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "galaxy",
+          "weight": 5
+        },
+        {
+          "keyword": "blue",
           "weight": 5
         },
         {
@@ -1723,6 +1867,14 @@
           "weight": 5
         },
         {
+          "keyword": "galaxy",
+          "weight": 5
+        },
+        {
+          "keyword": "blue",
+          "weight": 5
+        },
+        {
           "keyword": "blue"
         },
         {
@@ -1794,6 +1946,14 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "galaxy",
+          "weight": 5
+        },
+        {
+          "keyword": "blue",
           "weight": 5
         },
         {
@@ -1871,6 +2031,14 @@
           "weight": 5
         },
         {
+          "keyword": "galaxy",
+          "weight": 5
+        },
+        {
+          "keyword": "blue",
+          "weight": 5
+        },
+        {
           "keyword": "blue"
         },
         {
@@ -1942,6 +2110,14 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "blue",
+          "weight": 5
+        },
+        {
+          "keyword": "pink",
           "weight": 5
         },
         {
@@ -2716,6 +2892,14 @@
           "weight": 5
         },
         {
+          "keyword": "pink",
+          "weight": 5
+        },
+        {
+          "keyword": "red",
+          "weight": 5
+        },
+        {
           "keyword": "red"
         },
         {
@@ -2840,6 +3024,10 @@
           "weight": 5
         },
         {
+          "keyword": "pink",
+          "weight": 5
+        },
+        {
           "keyword": "cherry"
         },
         {
@@ -2904,6 +3092,10 @@
           "weight": 5
         },
         {
+          "keyword": "green",
+          "weight": 5
+        },
+        {
           "keyword": "green"
         },
         {
@@ -2963,6 +3155,10 @@
           "weight": 5
         },
         {
+          "keyword": "yellow",
+          "weight": 5
+        },
+        {
           "keyword": "cartoon"
         },
         {
@@ -3019,6 +3215,10 @@
         },
         {
           "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "yellow",
           "weight": 5
         },
         {
@@ -3147,6 +3347,10 @@
         },
         {
           "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "green",
           "weight": 5
         },
         {
