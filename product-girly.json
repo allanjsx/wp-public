@@ -11,15 +11,15 @@
       "productId": "1",
       "matchAnyKeyword": [
         {
+          "keyword": "blue",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "blue",
           "weight": 5
         },
         {
@@ -67,15 +67,15 @@
       "productId": "2",
       "matchAnyKeyword": [
         {
+          "keyword": "blue",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "blue",
           "weight": 5
         },
         {
@@ -123,15 +123,15 @@
       "productId": "3",
       "matchAnyKeyword": [
         {
+          "keyword": "blue",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "blue",
           "weight": 5
         },
         {
@@ -179,15 +179,15 @@
       "productId": "4",
       "matchAnyKeyword": [
         {
+          "keyword": "blue",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "blue",
           "weight": 5
         },
         {
@@ -235,15 +235,15 @@
       "productId": "5",
       "matchAnyKeyword": [
         {
+          "keyword": "blue",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "blue",
           "weight": 5
         },
         {
@@ -291,15 +291,15 @@
       "productId": "6",
       "matchAnyKeyword": [
         {
+          "keyword": "blue",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "blue",
           "weight": 5
         },
         {
@@ -347,15 +347,15 @@
       "productId": "7",
       "matchAnyKeyword": [
         {
+          "keyword": "blue",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "blue",
           "weight": 5
         },
         {
@@ -403,15 +403,15 @@
       "productId": "8",
       "matchAnyKeyword": [
         {
+          "keyword": "blue",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "blue",
           "weight": 5
         },
         {
@@ -459,15 +459,15 @@
       "productId": "9",
       "matchAnyKeyword": [
         {
+          "keyword": "black",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "blue",
           "weight": 5
         },
         {
@@ -515,11 +515,11 @@
       "productId": "10",
       "matchAnyKeyword": [
         {
-          "keyword": "earrings",
-          "weight": 5
+          "keyword": "pink",
+          "weight": 10
         },
         {
-          "keyword": "pink",
+          "keyword": "earrings",
           "weight": 5
         },
         {
@@ -549,11 +549,11 @@
       "productId": "11",
       "matchAnyKeyword": [
         {
-          "keyword": "earrings",
-          "weight": 5
+          "keyword": "pink",
+          "weight": 10
         },
         {
-          "keyword": "pink",
+          "keyword": "earrings",
           "weight": 5
         },
         {
@@ -583,11 +583,11 @@
       "productId": "12",
       "matchAnyKeyword": [
         {
-          "keyword": "earrings",
-          "weight": 5
+          "keyword": "pink",
+          "weight": 10
         },
         {
-          "keyword": "pink",
+          "keyword": "earrings",
           "weight": 5
         },
         {
@@ -621,15 +621,15 @@
           "weight": 10
         },
         {
+          "keyword": "pink",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "pink",
           "weight": 5
         },
         {
@@ -660,15 +660,15 @@
           "weight": 10
         },
         {
+          "keyword": "pink",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "pink",
           "weight": 5
         },
         {
@@ -702,11 +702,11 @@
           "weight": 10
         },
         {
-          "keyword": "love",
+          "keyword": "ribbon",
           "weight": 10
         },
         {
-          "keyword": "ribbon",
+          "keyword": "pink",
           "weight": 10
         },
         {
@@ -715,10 +715,6 @@
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "pink",
           "weight": 5
         },
         {
@@ -755,11 +751,11 @@
           "weight": 10
         },
         {
-          "keyword": "love",
+          "keyword": "ribbon",
           "weight": 10
         },
         {
-          "keyword": "ribbon",
+          "keyword": "pink",
           "weight": 10
         },
         {
@@ -768,10 +764,6 @@
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "pink",
           "weight": 5
         },
         {
@@ -800,9 +792,13 @@
     {
       "productLink": "https://getmebling.co/collections/girly/products/pink-flower-earring",
       "productImage": "https://s3-us-west-2.amazonaws.com/backup.craigatwork.com/girlywallpapers/product17.png",
-      "productName": "Pink Flower Earring",
+      "productName": "Pink Earring",
       "productId": "17",
       "matchAnyKeyword": [
+        {
+          "keyword": "pink",
+          "weight": 10
+        },
         {
           "keyword": "earrings",
           "weight": 5
@@ -812,7 +808,7 @@
           "weight": 5
         },
         {
-          "keyword": "pink",
+          "keyword": "flower",
           "weight": 5
         },
         {
@@ -841,15 +837,15 @@
           "weight": 10
         },
         {
+          "keyword": "pink",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "pink",
           "weight": 5
         },
         {
@@ -893,15 +889,15 @@
           "weight": 10
         },
         {
+          "keyword": "pink",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "pink",
           "weight": 5
         },
         {
@@ -935,15 +931,15 @@
           "weight": 10
         },
         {
+          "keyword": "yellow",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "yellow",
           "weight": 5
         },
         {
@@ -987,11 +983,11 @@
     {
       "productLink": "https://getmebling.co/collections/girly/products/yellow-flower-earring",
       "productImage": "https://s3-us-west-2.amazonaws.com/backup.craigatwork.com/girlywallpapers/product21.png",
-      "productName": "Yellow Flower Earring",
+      "productName": "Yellow Earring",
       "productId": "21",
       "matchAnyKeyword": [
         {
-          "keyword": "flower",
+          "keyword": "yellow",
           "weight": 10
         },
         {
@@ -1003,7 +999,7 @@
           "weight": 5
         },
         {
-          "keyword": "yellow",
+          "keyword": "flower",
           "weight": 5
         },
         {
@@ -1049,15 +1045,15 @@
           "weight": 10
         },
         {
+          "keyword": "yellow",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "yellow",
           "weight": 5
         },
         {
@@ -1103,15 +1099,15 @@
           "weight": 10
         },
         {
+          "keyword": "yellow",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "yellow",
           "weight": 5
         },
         {
@@ -1211,11 +1207,11 @@
     {
       "productLink": "https://getmebling.co/collections/girly/products/summer-yellow-flower-pearl-earring",
       "productImage": "https://s3-us-west-2.amazonaws.com/backup.craigatwork.com/girlywallpapers/product25.png",
-      "productName": "Summer Yellow Flower Pearl Earring",
+      "productName": "Summer Yellow Pearl Earring",
       "productId": "25",
       "matchAnyKeyword": [
         {
-          "keyword": "flower",
+          "keyword": "yellow",
           "weight": 10
         },
         {
@@ -1228,6 +1224,10 @@
         },
         {
           "keyword": "yellow",
+          "weight": 5
+        },
+        {
+          "keyword": "flower",
           "weight": 5
         },
         {
@@ -1268,6 +1268,10 @@
       "productName": "Summer Yellow Gold Round Acrylic Ear Stud",
       "productId": "26",
       "matchAnyKeyword": [
+        {
+          "keyword": "yellow",
+          "weight": 10
+        },
         {
           "keyword": "earrings",
           "weight": 5
@@ -1322,15 +1326,15 @@
           "weight": 10
         },
         {
+          "keyword": "yellow",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
         {
           "keyword": "jewelry",
-          "weight": 5
-        },
-        {
-          "keyword": "yellow",
           "weight": 5
         },
         {
@@ -1378,11 +1382,11 @@
       "productId": "28",
       "matchAnyKeyword": [
         {
-          "keyword": "flower",
+          "keyword": "sunflower",
           "weight": 10
         },
         {
-          "keyword": "sunflower",
+          "keyword": "yellow",
           "weight": 10
         },
         {
@@ -1394,7 +1398,7 @@
           "weight": 5
         },
         {
-          "keyword": "yellow",
+          "keyword": "flower",
           "weight": 5
         },
         {
@@ -1432,6 +1436,14 @@
       "productName": "Orange Crimson Round Geometric Earring",
       "productId": "29",
       "matchAnyKeyword": [
+        {
+          "keyword": "orange",
+          "weight": 10
+        },
+        {
+          "keyword": "yellow",
+          "weight": 10
+        },
         {
           "keyword": "earrings",
           "weight": 5
@@ -1471,6 +1483,10 @@
       "matchAnyKeyword": [
         {
           "keyword": "grape",
+          "weight": 10
+        },
+        {
+          "keyword": "orange",
           "weight": 10
         },
         {
@@ -1528,6 +1544,10 @@
         },
         {
           "keyword": "galaxy",
+          "weight": 10
+        },
+        {
+          "keyword": "blue",
           "weight": 10
         },
         {
@@ -1613,6 +1633,10 @@
           "weight": 10
         },
         {
+          "keyword": "blue",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
@@ -1692,6 +1716,10 @@
         },
         {
           "keyword": "galaxy",
+          "weight": 10
+        },
+        {
+          "keyword": "blue",
           "weight": 10
         },
         {
@@ -1777,6 +1805,10 @@
           "weight": 10
         },
         {
+          "keyword": "blue",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
@@ -1856,6 +1888,10 @@
         },
         {
           "keyword": "galaxy",
+          "weight": 10
+        },
+        {
+          "keyword": "blue",
           "weight": 10
         },
         {
@@ -1941,6 +1977,10 @@
           "weight": 10
         },
         {
+          "keyword": "blue",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
@@ -2023,6 +2063,10 @@
           "weight": 10
         },
         {
+          "keyword": "blue",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
@@ -2102,6 +2146,10 @@
         },
         {
           "keyword": "galaxy",
+          "weight": 10
+        },
+        {
+          "keyword": "blue",
           "weight": 10
         },
         {
@@ -2270,7 +2318,11 @@
       "productId": "41",
       "matchAnyKeyword": [
         {
-          "keyword": "flower",
+          "keyword": "green",
+          "weight": 10
+        },
+        {
+          "keyword": "blue",
           "weight": 10
         },
         {
@@ -2279,6 +2331,10 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "flower",
           "weight": 5
         },
         {
@@ -2474,7 +2530,7 @@
           "weight": 10
         },
         {
-          "keyword": "flower",
+          "keyword": "green",
           "weight": 10
         },
         {
@@ -2483,6 +2539,10 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "flower",
           "weight": 5
         },
         {
@@ -3803,6 +3863,10 @@
           "weight": 10
         },
         {
+          "keyword": "orange",
+          "weight": 10
+        },
+        {
           "keyword": "sticky",
           "weight": 5
         },
@@ -3872,10 +3936,6 @@
           "weight": 10
         },
         {
-          "keyword": "flower",
-          "weight": 10
-        },
-        {
           "keyword": "bunny",
           "weight": 10
         },
@@ -3889,6 +3949,10 @@
         },
         {
           "keyword": "stationery",
+          "weight": 5
+        },
+        {
+          "keyword": "flower",
           "weight": 5
         },
         {
@@ -3952,7 +4016,7 @@
           "weight": 10
         },
         {
-          "keyword": "plant",
+          "keyword": "black",
           "weight": 10
         },
         {
@@ -3961,6 +4025,10 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "plant",
           "weight": 5
         },
         {
@@ -4024,6 +4092,14 @@
       "matchAnyKeyword": [
         {
           "keyword": "flamingo",
+          "weight": 10
+        },
+        {
+          "keyword": "red",
+          "weight": 10
+        },
+        {
+          "keyword": "pink",
           "weight": 10
         },
         {
@@ -4487,11 +4563,11 @@
           "weight": 10
         },
         {
-          "keyword": "pink",
+          "keyword": "glitter",
           "weight": 10
         },
         {
-          "keyword": "glitter",
+          "keyword": "black",
           "weight": 10
         },
         {
@@ -4624,6 +4700,10 @@
           "weight": 10
         },
         {
+          "keyword": "pink",
+          "weight": 10
+        },
+        {
           "keyword": "toy",
           "weight": 5
         },
@@ -4697,6 +4777,10 @@
           "weight": 10
         },
         {
+          "keyword": "black",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
@@ -4759,6 +4843,10 @@
       "matchAnyKeyword": [
         {
           "keyword": "glitter",
+          "weight": 10
+        },
+        {
+          "keyword": "black",
           "weight": 10
         },
         {
