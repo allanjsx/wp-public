@@ -4997,6 +4997,374 @@
           "keyword": "gift"
         }
       ]
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/cat-fish-stud-earrings",
+      "productImage": "https://s3-us-west-2.amazonaws.com/backup.craigatwork.com/girlywallpapers/product80.png",
+      "productName": "Cat Fish Stud Earrings",
+      "productId": "80",
+      "matchAnyKeyword": [
+        {
+          "keyword": "cat",
+          "weight": 10
+        },
+        {
+          "keyword": "fish",
+          "weight": 10
+        },
+        {
+          "keyword": "silver",
+          "weight": 10
+        },
+        {
+          "keyword": "white",
+          "weight": 10
+        },
+        {
+          "keyword": "kitty",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "animal",
+          "weight": 5
+        },
+        {
+          "keyword": "sterling"
+        },
+        {
+          "keyword": "silver"
+        },
+        {
+          "keyword": "cat"
+        },
+        {
+          "keyword": "fish"
+        },
+        {
+          "keyword": "stud"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "for"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "gift"
+        },
+        {
+          "keyword": "hypoallergenic"
+        },
+        {
+          "keyword": "sterling"
+        },
+        {
+          "keyword": "silver"
+        }
+      ]
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/cute-cat-moon-earrings",
+      "productImage": "https://s3-us-west-2.amazonaws.com/backup.craigatwork.com/girlywallpapers/product81.png",
+      "productName": "Cute Cat Moon Earrings",
+      "productId": "81",
+      "matchAnyKeyword": [
+        {
+          "keyword": "cat",
+          "weight": 10
+        },
+        {
+          "keyword": "moon",
+          "weight": 10
+        },
+        {
+          "keyword": "silver",
+          "weight": 10
+        },
+        {
+          "keyword": "kitty",
+          "weight": 10
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "animal",
+          "weight": 5
+        },
+        {
+          "keyword": "fashion"
+        },
+        {
+          "keyword": "cute"
+        },
+        {
+          "keyword": "cat"
+        },
+        {
+          "keyword": "moon"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "birthday"
+        },
+        {
+          "keyword": "gifts"
+        }
+      ]
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/cute-black-cat-earrings",
+      "productImage": "https://s3-us-west-2.amazonaws.com/backup.craigatwork.com/girlywallpapers/product82.png",
+      "productName": "Cute Black Cat Earrings",
+      "productId": "82",
+      "matchAnyKeyword": [
+        {
+          "keyword": "black",
+          "weight": 10
+        },
+        {
+          "keyword": "cat",
+          "weight": 10
+        },
+        {
+          "keyword": "kitty",
+          "weight": 10
+        },
+        {
+          "keyword": "animal",
+          "weight": 5
+        },
+        {
+          "keyword": "earrings",
+          "weight": 5
+        },
+        {
+          "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "cute"
+        },
+        {
+          "keyword": "cat"
+        },
+        {
+          "keyword": "animal"
+        }
+      ]
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/vintage-black-moon-earrings",
+      "productImage": "https://s3-us-west-2.amazonaws.com/backup.craigatwork.com/girlywallpapers/product83.png",
+      "productName": "Vintage Black Moon Earrings",
+      "productId": "83",
+      "matchAnyKeyword": [
+        {
+          "keyword": "black",
+          "weight": 10
+        },
+        {
+          "keyword": "moon",
+          "weight": 10
+        },
+        {
+          "keyword": "star",
+          "weight": 5
+        },
+        {
+          "keyword": "galaxy",
+          "weight": 5
+        },
+        {
+          "keyword": "vintage"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "jewelry"
+        },
+        {
+          "keyword": "cute"
+        },
+        {
+          "keyword": "black"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "round"
+        },
+        {
+          "keyword": "stainless"
+        },
+        {
+          "keyword": "steel"
+        },
+        {
+          "keyword": "stud"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "gift"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "girl"
+        }
+      ]
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/vintage-black-heart-earrings",
+      "productImage": "https://s3-us-west-2.amazonaws.com/backup.craigatwork.com/girlywallpapers/product84.png",
+      "productName": "Vintage Black Heart Earrings",
+      "productId": "84",
+      "matchAnyKeyword": [
+        {
+          "keyword": "black",
+          "weight": 10
+        },
+        {
+          "keyword": "heart",
+          "weight": 10
+        },
+        {
+          "keyword": "love",
+          "weight": 5
+        },
+        {
+          "keyword": "vintage"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "jewelry"
+        },
+        {
+          "keyword": "cute"
+        },
+        {
+          "keyword": "black"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "round"
+        },
+        {
+          "keyword": "stainless"
+        },
+        {
+          "keyword": "steel"
+        },
+        {
+          "keyword": "stud"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "gift"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "girl"
+        }
+      ]
+    },
+    {
+      "productLink": "https://getmebling.co/collections/girly/products/vintage-black-stars-earrings",
+      "productImage": "https://s3-us-west-2.amazonaws.com/backup.craigatwork.com/girlywallpapers/product85.png",
+      "productName": "Vintage Black Stars Earrings",
+      "productId": "85",
+      "matchAnyKeyword": [
+        {
+          "keyword": "black",
+          "weight": 10
+        },
+        {
+          "keyword": "stars",
+          "weight": 10
+        },
+        {
+          "keyword": "moon",
+          "weight": 5
+        },
+        {
+          "keyword": "galaxy",
+          "weight": 5
+        },
+        {
+          "keyword": "vintage"
+        },
+        {
+          "keyword": "earrings"
+        },
+        {
+          "keyword": "jewelry"
+        },
+        {
+          "keyword": "cute"
+        },
+        {
+          "keyword": "black"
+        },
+        {
+          "keyword": "geometric"
+        },
+        {
+          "keyword": "round"
+        },
+        {
+          "keyword": "stainless"
+        },
+        {
+          "keyword": "steel"
+        },
+        {
+          "keyword": "stud"
+        },
+        {
+          "keyword": "earring"
+        },
+        {
+          "keyword": "gift"
+        },
+        {
+          "keyword": "women"
+        },
+        {
+          "keyword": "girl"
+        }
+      ]
     }
   ]
 }
