@@ -1159,15 +1159,11 @@
           "weight": 10
         },
         {
-          "keyword": "mark",
-          "weight": 10
-        },
-        {
           "keyword": "exclamation",
           "weight": 10
         },
         {
-          "keyword": "mark",
+          "keyword": "yellow",
           "weight": 10
         },
         {
@@ -2230,6 +2226,10 @@
           "weight": 10
         },
         {
+          "keyword": "blue",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
@@ -2371,6 +2371,10 @@
           "weight": 10
         },
         {
+          "keyword": "green",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
@@ -2429,6 +2433,10 @@
         },
         {
           "keyword": "bottle",
+          "weight": 10
+        },
+        {
+          "keyword": "green",
           "weight": 10
         },
         {
@@ -2589,6 +2597,10 @@
           "weight": 10
         },
         {
+          "keyword": "green",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
@@ -2633,6 +2645,18 @@
       "matchAnyKeyword": [
         {
           "keyword": "forest",
+          "weight": 10
+        },
+        {
+          "keyword": "cloud",
+          "weight": 10
+        },
+        {
+          "keyword": "pink",
+          "weight": 10
+        },
+        {
+          "keyword": "watercolor",
           "weight": 10
         },
         {
@@ -2693,6 +2717,10 @@
       "matchAnyKeyword": [
         {
           "keyword": "snow",
+          "weight": 10
+        },
+        {
+          "keyword": "cloud",
           "weight": 10
         },
         {
@@ -2757,6 +2785,14 @@
         },
         {
           "keyword": "mountain",
+          "weight": 10
+        },
+        {
+          "keyword": "cloud",
+          "weight": 10
+        },
+        {
+          "keyword": "white",
           "weight": 10
         },
         {
@@ -2880,6 +2916,10 @@
           "weight": 10
         },
         {
+          "keyword": "sky",
+          "weight": 10
+        },
+        {
           "keyword": "sticky",
           "weight": 5
         },
@@ -2937,6 +2977,18 @@
       "matchAnyKeyword": [
         {
           "keyword": "flamingo",
+          "weight": 10
+        },
+        {
+          "keyword": "cloud",
+          "weight": 10
+        },
+        {
+          "keyword": "watercolor",
+          "weight": 10
+        },
+        {
+          "keyword": "pink",
           "weight": 10
         },
         {
@@ -3072,6 +3124,10 @@
           "weight": 10
         },
         {
+          "keyword": "pink",
+          "weight": 10
+        },
+        {
           "keyword": "sticky",
           "weight": 5
         },
@@ -3137,6 +3193,10 @@
         },
         {
           "keyword": "plant",
+          "weight": 10
+        },
+        {
+          "keyword": "green",
           "weight": 10
         },
         {
@@ -3207,6 +3267,10 @@
           "weight": 10
         },
         {
+          "keyword": "yellow",
+          "weight": 10
+        },
+        {
           "keyword": "sticker",
           "weight": 5
         },
@@ -3270,6 +3334,10 @@
           "weight": 10
         },
         {
+          "keyword": "yellow",
+          "weight": 10
+        },
+        {
           "keyword": "sticker",
           "weight": 5
         },
@@ -3330,6 +3398,10 @@
       "matchAnyKeyword": [
         {
           "keyword": "carousel",
+          "weight": 10
+        },
+        {
+          "keyword": "watercolor",
           "weight": 10
         },
         {
@@ -3528,6 +3600,14 @@
           "weight": 10
         },
         {
+          "keyword": "pink",
+          "weight": 10
+        },
+        {
+          "keyword": "watercolor",
+          "weight": 10
+        },
+        {
           "keyword": "sticky",
           "weight": 5
         },
@@ -3649,6 +3729,10 @@
           "weight": 10
         },
         {
+          "keyword": "watercolor",
+          "weight": 10
+        },
+        {
           "keyword": "sticky",
           "weight": 5
         },
@@ -3714,6 +3798,10 @@
         },
         {
           "keyword": "tea",
+          "weight": 10
+        },
+        {
+          "keyword": "watercolor",
           "weight": 10
         },
         {
@@ -3791,6 +3879,10 @@
         },
         {
           "keyword": "cream",
+          "weight": 10
+        },
+        {
+          "keyword": "watercolor",
           "weight": 10
         },
         {
@@ -4103,6 +4195,10 @@
           "weight": 10
         },
         {
+          "keyword": "glitter",
+          "weight": 10
+        },
+        {
           "keyword": "earrings",
           "weight": 5
         },
@@ -4186,6 +4282,10 @@
         },
         {
           "keyword": "jewelry",
+          "weight": 5
+        },
+        {
+          "keyword": "fruit",
           "weight": 5
         },
         {
