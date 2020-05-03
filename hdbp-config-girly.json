@@ -5,7 +5,7 @@
         "zeroQuery": true,
         "grid": true,
         "rating": true,
-        "details": true,
+        "details": true
     },
     "bannerBackgroundColor": "#324054",
     "bannerTextColor": "#EFD05B",
