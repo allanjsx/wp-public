@@ -1,11 +1,10 @@
 {
     "enabledScenarios": {
-        "explore": true,
-        "categories": true,
-        "zeroQuery": true,
-        "grid": true,
-        "rating": true,
-        "details": true
+        "explore": false,
+        "categories": false,
+        "zeroQuery": false,
+        "grid": false,
+        "details": false
     },
     "bannerBackgroundColor": "#324054",
     "bannerTextColor": "#EFD05B",
