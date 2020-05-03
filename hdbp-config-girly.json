@@ -1,1 +1,15 @@
-
+{
+    "enabledScenarios": {
+        "explore": true,
+        "categories": true,
+        "zeroQuery": true,
+        "grid": true,
+        "rating": true,
+        "details": true,
+    },
+    "bannerBackgroundColor": "#324054",
+    "bannerTextColor": "#EFD05B",
+    "bannerIconColor": "#EFD05B",
+    "bannerText": "Want more free HD and 4K wallpapers? Check out HDBackgroundPictures.com",
+    "bannerLink": "https://www.hdbackgroundpictures.com/minimalist-wallpaper",
+}
