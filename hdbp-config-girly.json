@@ -1,14 +1,14 @@
 {
     "enabledScenarios": {
-        "explore": false,
-        "categories": false,
-        "zeroQuery": false,
-        "grid": false,
-        "details": false
+        "explore": true,
+        "categories": true,
+        "zeroQuery": true,
+        "grid": true,
+        "details": true
     },
     "bannerBackgroundColor": "#324054",
     "bannerTextColor": "#EFD05B",
     "bannerIconColor": "#EFD05B",
-    "bannerText": "Our team also built a site for you to free download millions of HD 4K wallpapers! Click to check out.",
-    "bannerLink": "https://www.hdbackgroundpictures.com/?source=girly&scenario={scenario}"
+    "bannerText": "Plan to Travel? We made a site for you to find the best rental deals! Click to check out.",
+    "bannerLink": "https://www.vacationhomerents.com/?source=girly&scenario={scenario}"
 }
